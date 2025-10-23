@@ -1,0 +1,5 @@
+{
+  "name": "Bangla AI Voice Generator",
+  "description": "A web application that uses Google's Gemini API to generate high-quality voice from Bangla text. Users can input text, generate the audio, preview it, and download the resulting WAV file.",
+  "requestFramePermissions": []
+}
